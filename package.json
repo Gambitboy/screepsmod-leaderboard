@@ -1,12 +1,18 @@
 {
-  "name": "screepsmod-leaderboard",
-  "version": "1.0.0",
+  "name": "screepsmod-simple-leaderboard",
+  "version": "1.0.1",
   "description": "Display the users in a leaderboard according to gcl points",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["screeps", "mod"],
+  "keywords": [
+    "screeps",
+    "mod"
+  ],
   "author": "Keaton Roux",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/Gambitboy/screepsmod-leaderboard.git"
+  }
 }
