@@ -1,0 +1,12 @@
+{
+  "name": "screepsmod-leaderboard",
+  "version": "1.0.0",
+  "description": "Display the users in a leaderboard according to gcl points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["screeps", "mod"],
+  "author": "Keaton Roux",
+  "license": "MIT"
+}
